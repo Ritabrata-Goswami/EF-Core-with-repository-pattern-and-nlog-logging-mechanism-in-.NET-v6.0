@@ -1,0 +1,11 @@
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\bin\Debug\net6.0\Cls_Model.deps.json
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\bin\Debug\net6.0\Cls_Model.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\bin\Debug\net6.0\Cls_Model.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\Cls_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\Cls_Model.AssemblyInfoInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\Cls_Model.AssemblyInfo.cs
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\Cls_Model.csproj.CoreCompileInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\Cls_Model.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\refint\Cls_Model.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\Cls_Model.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_Model\obj\Debug\net6.0\ref\Cls_Model.dll

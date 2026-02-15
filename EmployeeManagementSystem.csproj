@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cls_DbContext\**" />
+    <Compile Remove="Cls_Model\**" />
+    <Compile Remove="Cls_ReqPayload\**" />
+    <Content Remove="Cls_DbContext\**" />
+    <Content Remove="Cls_Model\**" />
+    <Content Remove="Cls_ReqPayload\**" />
+    <EmbeddedResource Remove="Cls_DbContext\**" />
+    <EmbeddedResource Remove="Cls_Model\**" />
+    <EmbeddedResource Remove="Cls_ReqPayload\**" />
+    <None Remove="Cls_DbContext\**" />
+    <None Remove="Cls_Model\**" />
+    <None Remove="Cls_ReqPayload\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.36" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.36">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.36" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Cls_DbContext\Cls_DbContext.csproj" />
+  </ItemGroup>
+
+</Project>

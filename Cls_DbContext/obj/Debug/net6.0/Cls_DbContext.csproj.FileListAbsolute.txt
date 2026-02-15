@@ -1,0 +1,17 @@
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\bin\Debug\net6.0\Cls_DbContext.deps.json
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\bin\Debug\net6.0\Cls_DbContext.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\bin\Debug\net6.0\Cls_DbContext.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\bin\Debug\net6.0\Cls_Model.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\bin\Debug\net6.0\Cls_Model.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.csproj.AssemblyReference.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.AssemblyInfoInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.AssemblyInfo.cs
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.csproj.CoreCompileInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbCo.209F393C.Up2Date
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\refint\Cls_DbContext.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\ref\Cls_DbContext.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\bin\Debug\net6.0\Cls_DbContext.runtimeconfig.json
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_DbContext\obj\Debug\net6.0\Cls_DbContext.genruntimeconfig.cache
