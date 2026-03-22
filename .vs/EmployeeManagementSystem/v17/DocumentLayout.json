@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9004514F-C196-4D91-81C2-5C54A6031175}|Cls_DbContext\\Cls_DbContext.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\cls_dbcontext\\cls_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9004514F-C196-4D91-81C2-5C54A6031175}|Cls_DbContext\\Cls_DbContext.csproj|solutionrelative:cls_dbcontext\\cls_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1759D83C-4F92-4D21-93BE-5AA02C4D00C4}|Cls_Model\\Cls_Model.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\cls_model\\cls_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1759D83C-4F92-4D21-93BE-5AA02C4D00C4}|Cls_Model\\Cls_Model.csproj|solutionrelative:cls_model\\cls_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60391C1A-6FAD-4CA1-9328-5A7FE10E55D3}|Cls_ReqPayload\\Cls_ReqPayload.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\cls_reqpayload\\cls_reqpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60391C1A-6FAD-4CA1-9328-5A7FE10E55D3}|Cls_ReqPayload\\Cls_ReqPayload.csproj|solutionrelative:cls_reqpayload\\cls_reqpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2AEBA5B-4442-4221-AA1D-A801B9764079}|ContractImplement\\ContractImplement.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\contractimplement\\cls_modelspecificrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AEBA5B-4442-4221-AA1D-A801B9764079}|ContractImplement\\ContractImplement.csproj|solutionrelative:contractimplement\\cls_modelspecificrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB876B9-4369-4085-BD86-AF33B653C194}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6FC535-F3D2-41B0-8B74-017F0750FAFF}|ModelRepoManager\\ModelRepoManager.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\modelrepomanager\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6FC535-F3D2-41B0-8B74-017F0750FAFF}|ModelRepoManager\\ModelRepoManager.csproj|solutionrelative:modelrepomanager\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6FC535-F3D2-41B0-8B74-017F0750FAFF}|ModelRepoManager\\ModelRepoManager.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\modelrepomanager\\cls_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6FC535-F3D2-41B0-8B74-017F0750FAFF}|ModelRepoManager\\ModelRepoManager.csproj|solutionrelative:modelrepomanager\\cls_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD52033-9597-4A38-AB14-42573E32F066}|ILoggerContract\\ILoggerContract.csproj|d:\\working\\c#\\projects\\employeemanagementsystem\\iloggercontract\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD52033-9597-4A38-AB14-42573E32F066}|ILoggerContract\\ILoggerContract.csproj|solutionrelative:iloggercontract\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,68 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cls_ReqPayload.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ReqPayload\\Cls_ReqPayload.cs",
-              "RelativeDocumentMoniker": "Cls_ReqPayload\\Cls_ReqPayload.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ReqPayload\\Cls_ReqPayload.cs",
-              "RelativeToolTip": "Cls_ReqPayload\\Cls_ReqPayload.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Cls_ModelSpecificRepo.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\Cls_ModelSpecificRepo.cs",
+              "RelativeDocumentMoniker": "ContractImplement\\Cls_ModelSpecificRepo.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\Cls_ModelSpecificRepo.cs",
+              "RelativeToolTip": "ContractImplement\\Cls_ModelSpecificRepo.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T15:50:47.392Z",
+              "WhenOpened": "2026-03-22T16:52:56.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "DocumentIndex": 5,
+              "Title": "Cls_Manager.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\Cls_Manager.cs",
+              "RelativeDocumentMoniker": "ModelRepoManager\\Cls_Manager.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\Cls_Manager.cs",
+              "RelativeToolTip": "ModelRepoManager\\Cls_Manager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAewAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T15:47:29.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T11:49:42.809Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\IManager.cs",
+              "RelativeDocumentMoniker": "ModelRepoManager\\IManager.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\IManager.cs",
+              "RelativeToolTip": "ModelRepoManager\\IManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:49:22.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:53:01.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:47:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T13:13:30.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T19:10:43.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cls_DbContext.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.cs",
-              "RelativeDocumentMoniker": "Cls_DbContext\\Cls_DbContext.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.cs",
-              "RelativeToolTip": "Cls_DbContext\\Cls_DbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "DocumentIndex": 6,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "ILoggerContract\\ILoggerManager.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerManager.cs",
+              "RelativeToolTip": "ILoggerContract\\ILoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T13:51:39.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cls_Model.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_Model\\Cls_Model.cs",
-              "RelativeDocumentMoniker": "Cls_Model\\Cls_Model.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_Model\\Cls_Model.cs",
-              "RelativeToolTip": "Cls_Model\\Cls_Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T13:15:07.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T18:03:41.356Z"
             }
           ]
         }

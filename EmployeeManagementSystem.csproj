@@ -10,29 +10,69 @@
     <Compile Remove="Cls_DbContext\**" />
     <Compile Remove="Cls_Model\**" />
     <Compile Remove="Cls_ReqPayload\**" />
+    <Compile Remove="Cls_RequestPayload\**" />
+    <Compile Remove="Cls_ResLib\**" />
+    <Compile Remove="ContractImplement\**" />
+    <Compile Remove="Enum\**" />
+    <Compile Remove="ILoggerContract\**" />
+    <Compile Remove="InterfaceContract\**" />
+    <Compile Remove="LoggerManager\**" />
+    <Compile Remove="ModelRepoManager\**" />
     <Content Remove="Cls_DbContext\**" />
     <Content Remove="Cls_Model\**" />
     <Content Remove="Cls_ReqPayload\**" />
+    <Content Remove="Cls_RequestPayload\**" />
+    <Content Remove="Cls_ResLib\**" />
+    <Content Remove="ContractImplement\**" />
+    <Content Remove="Enum\**" />
+    <Content Remove="ILoggerContract\**" />
+    <Content Remove="InterfaceContract\**" />
+    <Content Remove="LoggerManager\**" />
+    <Content Remove="ModelRepoManager\**" />
     <EmbeddedResource Remove="Cls_DbContext\**" />
     <EmbeddedResource Remove="Cls_Model\**" />
     <EmbeddedResource Remove="Cls_ReqPayload\**" />
+    <EmbeddedResource Remove="Cls_RequestPayload\**" />
+    <EmbeddedResource Remove="Cls_ResLib\**" />
+    <EmbeddedResource Remove="ContractImplement\**" />
+    <EmbeddedResource Remove="Enum\**" />
+    <EmbeddedResource Remove="ILoggerContract\**" />
+    <EmbeddedResource Remove="InterfaceContract\**" />
+    <EmbeddedResource Remove="LoggerManager\**" />
+    <EmbeddedResource Remove="ModelRepoManager\**" />
     <None Remove="Cls_DbContext\**" />
     <None Remove="Cls_Model\**" />
     <None Remove="Cls_ReqPayload\**" />
+    <None Remove="Cls_RequestPayload\**" />
+    <None Remove="Cls_ResLib\**" />
+    <None Remove="ContractImplement\**" />
+    <None Remove="Enum\**" />
+    <None Remove="ILoggerContract\**" />
+    <None Remove="InterfaceContract\**" />
+    <None Remove="LoggerManager\**" />
+    <None Remove="ModelRepoManager\**" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.36" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.36" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.36">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.36" />
+    <PackageReference Include="NLog" Version="6.1.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="Cls_DbContext\Cls_DbContext.csproj" />
+    <ProjectReference Include="Cls_RequestPayload\Cls_RequestPayload.csproj" />
+    <ProjectReference Include="Cls_ResLib\Cls_ResLib.csproj" />
+    <ProjectReference Include="Enum\Enum.csproj" />
+    <ProjectReference Include="ILoggerContract\ILoggerContract.csproj" />
+    <ProjectReference Include="LoggerManager\LoggerManager.csproj" />
+    <ProjectReference Include="ModelRepoManager\ModelRepoManager.csproj" />
   </ItemGroup>
 
 </Project>

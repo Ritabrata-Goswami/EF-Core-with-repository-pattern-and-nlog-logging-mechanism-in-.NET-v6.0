@@ -10,6 +10,20 @@ using System.Threading.Tasks;
 /*=================Domain Layer===================*/
 namespace Cls_Model
 {
+    public class AdminInfo
+    {
+        [Key]
+        public int Id { get; set; }
+        [MaxLength(20)]
+        public string FName { get; set; }
+        [MaxLength(20)]
+        public string LName { get; set; }
+        public DateTime JoiningDate { get; set; }
+        public string DeptName { get; set; }
+        public string LoginId { get; set; }
+        public string LoginPass { get; set; }
+        public string Active { get; set; } = "Y";
+    }
     public class EmployeeTypeMaster
     {
         [Key]

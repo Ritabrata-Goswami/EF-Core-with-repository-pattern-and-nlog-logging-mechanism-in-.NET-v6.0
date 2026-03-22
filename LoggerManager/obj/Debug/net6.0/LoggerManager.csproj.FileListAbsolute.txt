@@ -1,0 +1,15 @@
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\bin\Debug\net6.0\LoggerManager.deps.json
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\bin\Debug\net6.0\LoggerManager.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\bin\Debug\net6.0\LoggerManager.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\bin\Debug\net6.0\ILoggerContract.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\bin\Debug\net6.0\ILoggerContract.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerManager.csproj.AssemblyReference.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerManager.AssemblyInfoInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerManager.AssemblyInfo.cs
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerManager.csproj.CoreCompileInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerMa.17823261.Up2Date
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerManager.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\refint\LoggerManager.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\LoggerManager.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\LoggerManager\obj\Debug\net6.0\ref\LoggerManager.dll

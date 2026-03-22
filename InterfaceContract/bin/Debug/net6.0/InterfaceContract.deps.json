@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InterfaceContract/1.0.0": {
+        "dependencies": {
+          "Cls_Model": "1.0.0",
+          "Cls_ResLib": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceContract.dll": {}
+        }
+      },
+      "Cls_Model/1.0.0": {
+        "runtime": {
+          "Cls_Model.dll": {}
+        }
+      },
+      "Cls_ResLib/1.0.0": {
+        "dependencies": {
+          "Cls_Model": "1.0.0"
+        },
+        "runtime": {
+          "Cls_ResLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cls_Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cls_ResLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

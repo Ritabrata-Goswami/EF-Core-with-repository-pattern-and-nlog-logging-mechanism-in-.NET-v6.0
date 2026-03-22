@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cls_DbContext\Cls_DbContext.csproj" />
+    <ProjectReference Include="..\Cls_ResLib\Cls_ResLib.csproj" />
+    <ProjectReference Include="..\InterfaceContract\InterfaceContract.csproj" />
+  </ItemGroup>
+
+</Project>

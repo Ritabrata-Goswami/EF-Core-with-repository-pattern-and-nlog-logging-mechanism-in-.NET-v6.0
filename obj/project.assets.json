@@ -15,6 +15,25 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.36": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.35.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -532,6 +551,37 @@
           }
         }
       },
+      "NLog/6.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/NLog.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/NLog.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NLog.Extensions.Logging/6.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "NLog": "6.0.6"
+        },
+        "compile": {
+          "lib/net6.0/NLog.Extensions.Logging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/NLog.Extensions.Logging.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.5.0": {
         "type": "package",
         "dependencies": {
@@ -875,6 +925,108 @@
         "runtime": {
           "bin/placeholder/Cls_Model.dll": {}
         }
+      },
+      "Cls_RequestPayload/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Cls_RequestPayload.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cls_RequestPayload.dll": {}
+        }
+      },
+      "Cls_ResLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Cls_Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cls_ResLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cls_ResLib.dll": {}
+        }
+      },
+      "ContractImplement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Cls_DbContext": "1.0.0",
+          "Cls_ResLib": "1.0.0",
+          "InterfaceContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ContractImplement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContractImplement.dll": {}
+        }
+      },
+      "Enum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Enum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Enum.dll": {}
+        }
+      },
+      "ILoggerContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ILoggerContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ILoggerContract.dll": {}
+        }
+      },
+      "InterfaceContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Cls_Model": "1.0.0",
+          "Cls_ResLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InterfaceContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfaceContract.dll": {}
+        }
+      },
+      "LoggerManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ILoggerContract": "1.0.0",
+          "NLog": "6.1.0",
+          "NLog.Extensions.Logging": "6.1.0"
+        },
+        "compile": {
+          "bin/placeholder/LoggerManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoggerManager.dll": {}
+        }
+      },
+      "ModelRepoManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Cls_DbContext": "1.0.0",
+          "ContractImplement": "1.0.0",
+          "InterfaceContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ModelRepoManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelRepoManager.dll": {}
+        }
       }
     }
   },
@@ -893,6 +1045,21 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.36": {
+      "sha512": "vGDqvZUehbtKdoUzVO32N0Lxon+1piGO6qFnA8FNXEzWhrLN5uum8ZyhWgrWYSA4b6JuCBJ/wAC7rV38wBvLew==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/6.0.36",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.6.0.36.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
     "Microsoft.CSharp/4.5.0": {
@@ -1890,6 +2057,53 @@
         "version.txt"
       ]
     },
+    "NLog/6.1.0": {
+      "sha512": "K4UdxS4fuJeCM0sm+JTXWoJgOtcXX7X5kvE94bR07UB8JOB6A2+ski7q1tf2qdv+N0H3gsoWtteScJCHa3+zpw==",
+      "type": "package",
+      "path": "nlog/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "N.png",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/net46/NLog.dll",
+        "lib/net46/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "lib/netstandard2.1/NLog.dll",
+        "lib/netstandard2.1/NLog.xml",
+        "nlog.6.1.0.nupkg.sha512",
+        "nlog.nuspec"
+      ]
+    },
+    "NLog.Extensions.Logging/6.1.0": {
+      "sha512": "yWIluPmI4ISazv+1eEoRGnPbSVkxMN11ULblCxMvNsb8hGrw4LtuBebPOSjHK9D9yK/xSCHzmN46cELbgwiVsQ==",
+      "type": "package",
+      "path": "nlog.extensions.logging/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "N.png",
+        "README.md",
+        "lib/net10.0/NLog.Extensions.Logging.dll",
+        "lib/net10.0/NLog.Extensions.Logging.xml",
+        "lib/net462/NLog.Extensions.Logging.dll",
+        "lib/net462/NLog.Extensions.Logging.xml",
+        "lib/net6.0/NLog.Extensions.Logging.dll",
+        "lib/net6.0/NLog.Extensions.Logging.xml",
+        "lib/net8.0/NLog.Extensions.Logging.dll",
+        "lib/net8.0/NLog.Extensions.Logging.xml",
+        "lib/netstandard2.0/NLog.Extensions.Logging.dll",
+        "lib/netstandard2.0/NLog.Extensions.Logging.xml",
+        "lib/netstandard2.1/NLog.Extensions.Logging.dll",
+        "lib/netstandard2.1/NLog.Extensions.Logging.xml",
+        "nlog.extensions.logging.6.1.0.nupkg.sha512",
+        "nlog.extensions.logging.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.5.0": {
       "sha512": "FK05XokgjgwlCI6wCT+D4/abtQkL1X1/B9Oas6uIwHFmYrIO9WUD5aLC9IzMs9GnHfUXOtXZ2S43gN1mhs5+aA==",
       "type": "package",
@@ -2455,14 +2669,62 @@
       "type": "project",
       "path": "Cls_Model/Cls_Model.csproj",
       "msbuildProject": "Cls_Model/Cls_Model.csproj"
+    },
+    "Cls_RequestPayload/1.0.0": {
+      "type": "project",
+      "path": "Cls_RequestPayload/Cls_RequestPayload.csproj",
+      "msbuildProject": "Cls_RequestPayload/Cls_RequestPayload.csproj"
+    },
+    "Cls_ResLib/1.0.0": {
+      "type": "project",
+      "path": "Cls_ResLib/Cls_ResLib.csproj",
+      "msbuildProject": "Cls_ResLib/Cls_ResLib.csproj"
+    },
+    "ContractImplement/1.0.0": {
+      "type": "project",
+      "path": "ContractImplement/ContractImplement.csproj",
+      "msbuildProject": "ContractImplement/ContractImplement.csproj"
+    },
+    "Enum/1.0.0": {
+      "type": "project",
+      "path": "Enum/Enum.csproj",
+      "msbuildProject": "Enum/Enum.csproj"
+    },
+    "ILoggerContract/1.0.0": {
+      "type": "project",
+      "path": "ILoggerContract/ILoggerContract.csproj",
+      "msbuildProject": "ILoggerContract/ILoggerContract.csproj"
+    },
+    "InterfaceContract/1.0.0": {
+      "type": "project",
+      "path": "InterfaceContract/InterfaceContract.csproj",
+      "msbuildProject": "InterfaceContract/InterfaceContract.csproj"
+    },
+    "LoggerManager/1.0.0": {
+      "type": "project",
+      "path": "LoggerManager/LoggerManager.csproj",
+      "msbuildProject": "LoggerManager/LoggerManager.csproj"
+    },
+    "ModelRepoManager/1.0.0": {
+      "type": "project",
+      "path": "ModelRepoManager/ModelRepoManager.csproj",
+      "msbuildProject": "ModelRepoManager/ModelRepoManager.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Cls_DbContext >= 1.0.0",
+      "Cls_RequestPayload >= 1.0.0",
+      "Cls_ResLib >= 1.0.0",
+      "Enum >= 1.0.0",
+      "ILoggerContract >= 1.0.0",
+      "LoggerManager >= 1.0.0",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.36",
       "Microsoft.EntityFrameworkCore >= 6.0.36",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.36",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.36",
+      "ModelRepoManager >= 1.0.0",
+      "NLog >= 6.1.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -2496,6 +2758,24 @@
           "projectReferences": {
             "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj": {
               "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj"
+            },
+            "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\Cls_RequestPayload.csproj": {
+              "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\Cls_RequestPayload.csproj"
+            },
+            "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj": {
+              "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj"
+            },
+            "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\Enum.csproj": {
+              "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\Enum.csproj"
+            },
+            "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj": {
+              "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj"
+            },
+            "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\LoggerManager.csproj": {
+              "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\LoggerManager.csproj"
+            },
+            "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\ModelRepoManager.csproj": {
+              "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\ModelRepoManager.csproj"
             }
           }
         }
@@ -2515,6 +2795,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[6.0.36, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[6.0.36, )"
@@ -2528,6 +2812,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.36, )"
+          },
+          "NLog": {
+            "target": "Package",
+            "version": "[6.1.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

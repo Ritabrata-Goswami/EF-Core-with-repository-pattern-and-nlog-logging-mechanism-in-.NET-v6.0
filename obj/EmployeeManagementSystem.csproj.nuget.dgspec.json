@@ -146,6 +146,203 @@
         }
       }
     },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\Cls_RequestPayload.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\Cls_RequestPayload.csproj",
+        "projectName": "Cls_RequestPayload",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\Cls_RequestPayload.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj",
+        "projectName": "Cls_ResLib",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_Model\\Cls_Model.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_Model\\Cls_Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\ContractImplement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\ContractImplement.csproj",
+        "projectName": "ContractImplement",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\ContractImplement.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\InterfaceContract.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\InterfaceContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -173,6 +370,24 @@
             "projectReferences": {
               "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj": {
                 "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\Cls_RequestPayload.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_RequestPayload\\Cls_RequestPayload.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\Enum.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\Enum.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\LoggerManager.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\LoggerManager.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\ModelRepoManager.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\ModelRepoManager.csproj"
               }
             }
           }
@@ -192,6 +407,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.36, )"
@@ -205,6 +424,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.36, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[6.1.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -226,6 +449,342 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\Enum.csproj",
+        "projectName": "Enum",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\Enum.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj",
+        "projectName": "ILoggerContract",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\InterfaceContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\InterfaceContract.csproj",
+        "projectName": "InterfaceContract",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\InterfaceContract.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_Model\\Cls_Model.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_Model\\Cls_Model.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_ResLib\\Cls_ResLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\LoggerManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\LoggerManager.csproj",
+        "projectName": "LoggerManager",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\LoggerManager.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\LoggerManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ILoggerContract\\ILoggerContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\ModelRepoManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\ModelRepoManager.csproj",
+        "projectName": "ModelRepoManager",
+        "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\ModelRepoManager.csproj",
+        "packagesPath": "C:\\Users\\RITABRATA\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ModelRepoManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RITABRATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\Cls_DbContext\\Cls_DbContext.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\ContractImplement.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\ContractImplement\\ContractImplement.csproj"
+              },
+              "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\InterfaceContract.csproj": {
+                "projectPath": "D:\\Working\\C#\\Projects\\EmployeeManagementSystem\\InterfaceContract\\InterfaceContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

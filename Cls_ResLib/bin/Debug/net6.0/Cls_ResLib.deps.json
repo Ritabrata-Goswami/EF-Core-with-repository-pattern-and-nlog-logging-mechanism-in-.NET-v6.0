@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cls_ResLib/1.0.0": {
+        "dependencies": {
+          "Cls_Model": "1.0.0"
+        },
+        "runtime": {
+          "Cls_ResLib.dll": {}
+        }
+      },
+      "Cls_Model/1.0.0": {
+        "runtime": {
+          "Cls_Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cls_ResLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cls_Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

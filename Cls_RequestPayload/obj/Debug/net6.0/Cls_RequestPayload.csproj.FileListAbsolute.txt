@@ -1,0 +1,11 @@
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\bin\Debug\net6.0\Cls_RequestPayload.deps.json
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\bin\Debug\net6.0\Cls_RequestPayload.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\bin\Debug\net6.0\Cls_RequestPayload.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\Cls_RequestPayload.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\Cls_RequestPayload.AssemblyInfoInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\Cls_RequestPayload.AssemblyInfo.cs
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\Cls_RequestPayload.csproj.CoreCompileInputs.cache
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\Cls_RequestPayload.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\refint\Cls_RequestPayload.dll
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\Cls_RequestPayload.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_RequestPayload\obj\Debug\net6.0\ref\Cls_RequestPayload.dll
