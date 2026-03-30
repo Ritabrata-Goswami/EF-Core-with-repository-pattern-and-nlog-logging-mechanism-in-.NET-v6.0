@@ -19,6 +19,6 @@ namespace InterfaceContract
 
     public interface IEmpMaster : ICrudMethods<EmployeeMaster>
     {
-
+        public List<EmployeeMaster> GetEmpList();
     }
 }

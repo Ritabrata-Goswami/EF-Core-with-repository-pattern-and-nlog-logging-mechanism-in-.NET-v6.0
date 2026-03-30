@@ -15,3 +15,4 @@ D:\Working\C#\Projects\EmployeeManagementSystem\InterfaceContract\obj\Debug\net6
 D:\Working\C#\Projects\EmployeeManagementSystem\InterfaceContract\obj\Debug\net6.0\Interfac.9620108B.Up2Date
 D:\Working\C#\Projects\EmployeeManagementSystem\InterfaceContract\bin\Debug\net6.0\Cls_ResLib.dll
 D:\Working\C#\Projects\EmployeeManagementSystem\InterfaceContract\bin\Debug\net6.0\Cls_ResLib.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\InterfaceContract\obj\Debug\net6.0\InterfaceContract.sourcelink.json

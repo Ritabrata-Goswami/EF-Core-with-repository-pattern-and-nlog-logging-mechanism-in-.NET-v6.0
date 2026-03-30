@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cls_ResLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e55c0bb0f3393992491cc9a975fbe8a043a5e220")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a17cbbb5aba4ba52b5c0b22b6a77e31333a09796")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cls_ResLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cls_ResLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

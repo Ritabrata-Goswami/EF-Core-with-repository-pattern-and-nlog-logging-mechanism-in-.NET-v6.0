@@ -42,9 +42,15 @@ namespace ContractImplement
 
     public class EmployeeMasterRepo : Cls_ImplementCrud<EmployeeMaster>, IEmpMaster
     {
+        private Cls_EmployeeDbContext _Cls_EmpContext;
         public EmployeeMasterRepo(Cls_EmployeeDbContext Cls_EmpContext) : base(Cls_EmpContext)
         {
-
+            _Cls_EmpContext = Cls_EmpContext;
+        }
+        public List<EmployeeMaster> GetEmpList()
+        {
+            List<EmployeeMaster> Res = _Cls_EmpContext.EmpMaster.ToList();
+            return Res;
         }
     }
 }

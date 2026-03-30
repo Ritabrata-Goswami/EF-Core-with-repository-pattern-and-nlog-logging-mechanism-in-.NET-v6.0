@@ -13,3 +13,4 @@ D:\Working\C#\Projects\EmployeeManagementSystem\Cls_ResLib\bin\Debug\net6.0\Cls_
 D:\Working\C#\Projects\EmployeeManagementSystem\Cls_ResLib\bin\Debug\net6.0\Cls_Model.pdb
 D:\Working\C#\Projects\EmployeeManagementSystem\Cls_ResLib\obj\Debug\net6.0\Cls_ResLib.csproj.AssemblyReference.cache
 D:\Working\C#\Projects\EmployeeManagementSystem\Cls_ResLib\obj\Debug\net6.0\Cls_ResLib.csproj.Up2Date
+D:\Working\C#\Projects\EmployeeManagementSystem\Cls_ResLib\obj\Debug\net6.0\Cls_ResLib.sourcelink.json

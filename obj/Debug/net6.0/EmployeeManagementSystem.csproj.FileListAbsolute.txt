@@ -98,3 +98,4 @@ D:\Working\C#\Projects\EmployeeManagementSystem\bin\Debug\net6.0\Cls_RequestPayl
 D:\Working\C#\Projects\EmployeeManagementSystem\bin\Debug\net6.0\Enum.dll
 D:\Working\C#\Projects\EmployeeManagementSystem\bin\Debug\net6.0\Cls_RequestPayload.pdb
 D:\Working\C#\Projects\EmployeeManagementSystem\bin\Debug\net6.0\Enum.pdb
+D:\Working\C#\Projects\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.sourcelink.json

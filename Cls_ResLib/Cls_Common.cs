@@ -28,4 +28,9 @@ namespace Cls_ResLib
         public CommonRes commonRes { get; set; }
         public List<EmployeeTypeMaster> EmpMasterList {  get; set; }
     }
+    public class Cls_FetchEmpMaster
+    {
+        public CommonRes commonRes { get; set; }
+        public List<EmployeeMaster> empMstrList { get; set; }
+    }
 }

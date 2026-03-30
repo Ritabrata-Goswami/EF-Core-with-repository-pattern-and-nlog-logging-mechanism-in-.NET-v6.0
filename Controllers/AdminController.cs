@@ -94,6 +94,42 @@ namespace EmployeeManagementSystem.Controllers
                 return StatusCode(500, cls_CommRes);
             }
         }
+        [Authorize]
+        [HttpGet("GetEmpList")]
+        public IActionResult GetEmpList()
+        {
+            CommonRes cls_CommRes = new CommonRes();
+            string errLogMsg = "";
+            List<EmployeeMaster> empMstrList = null;
+            Cls_FetchEmpMaster cls_FetchEmpMaster = new Cls_FetchEmpMaster();
+            try
+            {
+                empMstrList = _IManager.empMaster.GetEmpList();
+                if(empMstrList.Count == 0)
+                {
+                    cls_CommRes.StatusCode = 404;
+                    cls_CommRes.StatusMsg = "No employee list found!";
+                    errLogMsg = "(GetEmpList) ---- Exception:- No employee list found!";
+                    _ILoggerManager.Error_Log(errLogMsg);
+                    cls_FetchEmpMaster.commonRes = cls_CommRes;
+                    return NotFound(cls_FetchEmpMaster);
+                }
+
+                cls_CommRes.StatusCode = 200;
+                cls_CommRes.StatusMsg = "Data fetched successfully!";
+                cls_FetchEmpMaster.commonRes = cls_CommRes;
+                cls_FetchEmpMaster.empMstrList = empMstrList;
+                return Ok(cls_FetchEmpMaster);
+            }
+            catch (Exception ex) 
+            {
+                cls_CommRes.StatusCode = 500;
+                cls_CommRes.StatusMsg = ex.Message;
+                errLogMsg = $"(GetEmpList) ---- Exception:- {ex.Message}";
+                _ILoggerManager.Error_Log(errLogMsg);
+                return StatusCode(500, cls_CommRes);
+            }
+        }
 
 
     }
